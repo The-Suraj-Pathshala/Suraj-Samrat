@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Suraj-Samrat/static/css/main.79df43b5.css",
-    "main.js": "/Suraj-Samrat/static/js/main.4e559fb9.js",
+    "main.css": "/Suraj-Samrat/static/css/main.18adf501.css",
+    "main.js": "/Suraj-Samrat/static/js/main.aa5d9af5.js",
     "static/js/787.28cb0dcd.chunk.js": "/Suraj-Samrat/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/Suraj-Samrat/index.html",
-    "main.79df43b5.css.map": "/Suraj-Samrat/static/css/main.79df43b5.css.map",
-    "main.4e559fb9.js.map": "/Suraj-Samrat/static/js/main.4e559fb9.js.map",
+    "main.18adf501.css.map": "/Suraj-Samrat/static/css/main.18adf501.css.map",
+    "main.aa5d9af5.js.map": "/Suraj-Samrat/static/js/main.aa5d9af5.js.map",
     "787.28cb0dcd.chunk.js.map": "/Suraj-Samrat/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79df43b5.css",
-    "static/js/main.4e559fb9.js"
+    "static/css/main.18adf501.css",
+    "static/js/main.aa5d9af5.js"
   ]
 }
