@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @The-Suraj-Pathshala
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m OM.
+- 👀 I’m interested in React.js
+- 🌱 I’m currently learning javaScript
+- 💞️ I’m looking to collaborate on youtube Ohm`s code.
+- 📫 How to reach me,  email : ohmdto1513@gmail.com
 
 # Getting Started with Create React App
 
