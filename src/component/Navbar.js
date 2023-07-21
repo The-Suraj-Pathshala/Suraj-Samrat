@@ -50,19 +50,19 @@ export default function Navbar(props){
               Our Social Media handles
             </a>
             <ul className={`dropdown-menu border-${props.mode === 'dark'?'light':'dark'} bg-${props.mode === 'light'?'light':'dark'}`}>
-              <li><a className={`text-${props.mode === 'dark'?'light':'dark'} dropdown-item inverText`}  href="https://www.youtube.com/@surajsir3716/channels" target="_blank" ><i className="bi bi-youtube px-2 text-danger"></i>YouTube</a></li>
+              <li><a className={`text-${props.mode === 'dark'?'light':'dark'} dropdown-item inverText`}  href="https://www.youtube.com/@TheSurajPathshala/videos" target="_blank" ><i className="bi bi-youtube px-2 text-danger"></i>YouTube</a></li>
 
-              <li><a className={`text-${props.mode === 'dark'?'light':'dark'} dropdown-item inverText`} href="https://play.google.com/store/apps/details?id=co.jones.ajwrr"><i className="bi bi-linkedin px-2" style={{"color":"blue"}}></i>Linkdin</a></li>
+              <li><a className={`text-${props.mode === 'dark'?'light':'dark'} dropdown-item inverText`} href="https://www.youtube.com/@TheSurajPathshala/videos"><i className="bi bi-linkedin px-2" style={{"color":"blue"}}></i>Linkdin</a></li>
 
-              <li><a className={`text-${props.mode === 'dark'?'light':'dark'} dropdown-item inverText`} href="https://play.google.com/store/apps/details?id=co.jones.ajwrr" ><i className="bi bi-whatsapp px-2 text-success"></i>Whatsapp</a></li>
+              <li><a className={`text-${props.mode === 'dark'?'light':'dark'} dropdown-item inverText`} href="https://www.youtube.com/@TheSurajPathshala/videos" ><i className="bi bi-whatsapp px-2 text-success"></i>Whatsapp</a></li>
 
-              <li><a className={`text-${props.mode === 'dark'?'light':'dark'} dropdown-item inverText`} href="https://play.google.com/store/apps/details?id=co.jones.ajwrr" ><i className="bi bi-facebook px-2 text-primary"></i>Facebook</a></li>
+              <li><a className={`text-${props.mode === 'dark'?'light':'dark'} dropdown-item inverText`} href="https://www.youtube.com/@TheSurajPathshala/videos" ><i className="bi bi-facebook px-2 text-primary"></i>Facebook</a></li>
 
-              <li><a className={`text-${props.mode === 'dark'?'light':'dark'} dropdown-item inverText`} href="https://play.google.com/store/apps/details?id=co.jones.ajwrr" ><i className="bi bi-instagram px-2" style={{"color":"#ee7f7f"}}></i>Instagram</a></li>
+              <li><a className={`text-${props.mode === 'dark'?'light':'dark'} dropdown-item inverText`} href="https://www.youtube.com/@TheSurajPathshala/videos" ><i className="bi bi-instagram px-2" style={{"color":"#ee7f7f"}}></i>Instagram</a></li>
 
-              <li><a className={`text-${props.mode === 'dark'?'light':'dark'} dropdown-item inverText`} href="https://play.google.com/store/apps/details?id=co.jones.ajwrr" ><i className="bi bi-messenger px-2 text-info"></i>Messenger</a></li>
+              <li><a className={`text-${props.mode === 'dark'?'light':'dark'} dropdown-item inverText`} href="https://www.youtube.com/@TheSurajPathshala/videos" ><i className="bi bi-messenger px-2 text-info"></i>Messenger</a></li>
 
-              <li><a className={`text-${props.mode === 'dark'?'light':'dark'} dropdown-item inverText`} href="https://play.google.com/store/apps/details?id=co.jones.ajwrr"><i className="bi bi-twitter px-2 text-info"></i>Twitter</a></li>
+              <li><a className={`text-${props.mode === 'dark'?'light':'dark'} dropdown-item inverText`} href="https://www.youtube.com/@TheSurajPathshala/videos"><i className="bi bi-twitter px-2 text-info"></i>Twitter</a></li>
             </ul>
           </li>
           <li className="nav-item dropdown">
